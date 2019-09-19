@@ -35,7 +35,7 @@ Select your preferred question, add your name within the square brackets and cre
 
 15. How to send email using Node.js? Explain all the configuration/installaiton required. [Ghanshyam]
 
-16. How to sending email in .NET through Gmail? and in case I get an error "Gmail Error :The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required", then what are the possible reasons for this error and what are the ways to resolve it. [WRITE YOUR NAME]
+16. How to sending email in .NET through Gmail? and in case I get an error "Gmail Error :The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required", then what are the possible reasons for this error and what are the ways to resolve it. [NAUFIL MIRSINGE]
 
 17. "Why do I get “'property cannot be assigned” when sending an SMTP email? I can't understand why this code is not working. I get an error saying property can not be assigned
 `MailMessage mail = new MailMessage();
@@ -49,7 +49,7 @@ Select your preferred question, add your name within the square brackets and cre
  mail.Subject = ""this is a test email."";
  mail.Body = ""this is my test email body"";
  client.Send(mail);`
-What can be the possible reasons for this error to occur and what are the proposed solutions? [WRITE YOUR NAME]
+What can be the possible reasons for this error to occur and what are the proposed solutions? [NAUFIL MIRSINGE]
 
 18. How to setup a fake smtp test server? Write the setup/installation, and give example on how it works. Talk about various issues which might come during the installation? [WRITE YOUR NAME]
 
